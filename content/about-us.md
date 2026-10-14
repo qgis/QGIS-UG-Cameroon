@@ -32,12 +32,35 @@ Our mission is to advance the adoption and effective use of open-source Geograph
 The Association is guided by an elected Executive Bureau committed to transparency and progressive community development.
 
 ### Executive Bureau
-- **President:** Eloundou Abega Jean Jovanick
-- **Vice-President:** Asonglefac Synthia
+- **President:** [Eloundou Abega Jean Jovanick](https://www.linkedin.com/in/eloundou-abega-jean-jovanick-892b15272/)
+- **Vice-President:** [Asonglefac Synthia](https://www.linkedin.com/in/asonglefac-synthia-a5944832a/)
 - **Secretary General:** Ariane Assene
 - **Treasurer General:** Nfor Prilson
-- **Communication Manager:** Kam Fotso Gislain
+- **Communication Manager:** [Kam Fotso Gislain](https://www.linkedin.com/in/gislain-kam-fotso/)
 - **Projects Manager:** Jastsa Guedia Amael
+
+### Our Working Groups (Poles)
+To ensure effective action, our community is organized into specialized poles:
+
+- **Communication, Events & Social Media**  
+  *Mission:* Website management, social media, newsletter, and organization of QGIS Day Cameroon.  
+  *Manager:* **AFENUI NGUEFACK Nelly** – [LinkedIn](https://www.linkedin.com/in/afenui-nguefack-nelly-leslie-7a750b276/)
+
+- **Development, Plugins & GIS Innovation**  
+  *Mission:* Technology watch, plugin contribution, and promotion of OGC/open-source standards.  
+  *Manager:* **NDEKEBAI MEYIE MICHAEL** – [LinkedIn](https://www.linkedin.com/in/michael-ndekebai-meyie-022747334/)
+
+- **Training & Capacity Building**  
+  *Mission:* QGIS workshops, tutorials, and beginner support.  
+  *Manager:* Training Manager *(To be announced)*
+
+- **Partnerships & Resource Mobilization**  
+  *Mission:* Relations with institutions (MINDCAF, professional orders, universities, donors) and funding acquisition.  
+  *Manager:* **ADAMOU AHMADOU Arafat** *(LinkedIn coming soon)*
+
+- **Regional Branches & Associative Life**  
+  *Mission:* Coordination of regional branches and community animation.  
+  *Manager:* Branches Coordinator *(To be announced)*
 
 ### Regional Coordination
 To ensure nationwide impact, our community is anchored by dedicated Regional Coordinators in key areas, including Yaoundé (Centre), Douala (Littoral), Bafoussam (West), Buea (South-West), and Garoua (North).
@@ -46,7 +69,7 @@ To ensure nationwide impact, our community is anchored by dedicated Regional Coo
 
 We welcome individuals and institutions interested in geospatial technologies, from complete beginners to seasoned professionals. Our membership comprises:
 - GIS professionals and certified cartographers
-- environementalists and natural resource managers
+- Environmentalists and natural resource managers
 - Urban planners and territorial development experts
 - Academic researchers and university lecturers
 - Geomatics students and interns
@@ -63,12 +86,51 @@ Our community operates on a foundation of strict professional and ethical standa
 
 ## Contact Us
 
-We welcome inquiries, partnership proposals, and membership applications.
+We welcome inquiries, partnership proposals, and membership applications. Reach out to us through your preferred channel:
 
-- **Email:** qgiscameroun@gmail.com
-- **Mailing List:** [Link to mailing list or newsletter signup]
-- **Professional Networks:** [Link to LinkedIn] | [Link to Facebook]
-- **Community Chat:** [Link to WhatsApp, Telegram, or Discord group]
+<div class="columns is-multiline is-centered has-text-centered mt-5">
+  
+  <!-- Email -->
+  <div class="column is-narrow">
+    <a href="mailto:qgiscameroun@gmail.com" class="button is-medium is-light is-rounded" target="_blank" rel="noopener noreferrer" title="Send us an Email">
+      <span class="icon is-large has-text-danger">
+        <i class="fa-solid fa-envelope fa-2x"></i>
+      </span>
+    </a>
+    <p class="mt-2 is-size-7 has-text-weight-bold has-text-grey">Email</p>
+  </div>
+
+  <!-- LinkedIn -->
+  <div class="column is-narrow">
+    <a href="https://www.linkedin.com/company/qgis-cameroon/" class="button is-medium is-light is-rounded" target="_blank" rel="noopener noreferrer" title="Follow us on LinkedIn">
+      <span class="icon is-large has-text-link">
+        <i class="fa-brands fa-linkedin fa-2x"></i>
+      </span>
+    </a>
+    <p class="mt-2 is-size-7 has-text-weight-bold has-text-grey">LinkedIn</p>
+  </div>
+
+  <!-- Facebook -->
+  <div class="column is-narrow">
+    <a href="https://www.facebook.com/profile.php?id=61595157218301" class="button is-medium is-light is-rounded" target="_blank" rel="noopener noreferrer" title="Follow us on Facebook">
+      <span class="icon is-large has-text-info">
+        <i class="fa-brands fa-facebook fa-2x"></i>
+      </span>
+    </a>
+    <p class="mt-2 is-size-7 has-text-weight-bold has-text-grey">Facebook</p>
+  </div>
+
+  <!-- WhatsApp Channel -->
+  <div class="column is-narrow">
+    <a href="https://whatsapp.com/channel/0029Vb8ewPpLSmbiFWpspy1h" class="button is-medium is-light is-rounded" target="_blank" rel="noopener noreferrer" title="Join our WhatsApp Channel">
+      <span class="icon is-large has-text-success">
+        <i class="fa-brands fa-whatsapp fa-2x"></i>
+      </span>
+    </a>
+    <p class="mt-2 is-size-7 has-text-weight-bold has-text-grey">WhatsApp Channel</p>
+  </div>
+
+</div>
 
 ## Official Affiliation
 

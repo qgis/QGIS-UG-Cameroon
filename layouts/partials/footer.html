@@ -3,30 +3,20 @@
         <div class="columns is-desktop">
             <div class="column is-2-desktop">
                 <figure class="image is-128x128">
-                    <img alt="Logo" src="{{ absURL "img/qgis-cameroun-ecusson-blanc-1024.png" }}" />
+                    <img alt="Logo QGIS Cameroon" src="{{ absURL "img/qgis-cameroun-ecusson-blanc-1024.png" }}" />
                 </figure>
             </div>
             <div class="column mb-6">
                 <div class="columns is-desktop">
                     <ul class="column mb-5">
                         <li class="is-size-5 mb-5 ">
-                            <a
-                                href="https://qgis.org/project/overview"
-                                class="footertitle text-nowrap"
-                            >
-                                Project
-                            </a>
+                            <a href="https://qgis.org/project/overview" class="footertitle text-nowrap">Project</a>
                         </li>
                         {{- range site.Menus.qgis_org }}
                             {{- if eq .Name "Project" }}
                                 {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
-                                        <a
-                                            class="has-text-white text-nowrap"
-                                            href="{{ .URL }}"
-                                        >
-                                            {{ .Name }}
-                                        </a>
+                                        <a class="has-text-white text-nowrap" href="{{ .URL }}">{{ .Name }}</a>
                                     </li>
                                 {{ end }}
                             {{ end }}
@@ -35,23 +25,13 @@
 
                     <ul class="column mb-5">
                         <li class="is-size-5 mb-5">
-                            <a
-                                href="https://qgis.org/community/involve"
-                                class="footertitle text-nowrap"
-                            >
-                                Community
-                            </a>
+                            <a href="https://qgis.org/community/involve" class="footertitle text-nowrap">Community</a>
                         </li>
                         {{- range site.Menus.qgis_org }}
                             {{- if eq .Name "Community" }}
                                 {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
-                                        <a
-                                            class="has-text-white text-nowrap"
-                                            href="{{ .URL }}"
-                                        >
-                                            {{ .Name }}
-                                        </a>
+                                        <a class="has-text-white text-nowrap" href="{{ .URL }}">{{ .Name }}</a>
                                     </li>
                                 {{ end }}
                             {{ end }}
@@ -60,23 +40,13 @@
 
                     <ul class="column mb-5">
                         <li class="is-size-5 mb-5 footertitle">
-                            <a
-                                href="https://qgis.org/resources/hub"
-                                class="footertitle text-nowrap"
-                            >
-                                Resources
-                            </a>
+                            <a href="https://qgis.org/resources/hub" class="footertitle text-nowrap">Resources</a>
                         </li>
                         {{- range site.Menus.qgis_org }}
                             {{- if eq .Name "Resources" }}
                                 {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
-                                        <a
-                                            class="has-text-white text-nowrap"
-                                            href="{{ .URL }}"
-                                        >
-                                            {{ .Name }}
-                                        </a>
+                                        <a class="has-text-white text-nowrap" href="{{ .URL }}">{{ .Name }}</a>
                                     </li>
                                 {{ end }}
                             {{ end }}
@@ -85,23 +55,13 @@
 
                     <ul class="column mb-5">
                         <li class="is-size-5 mb-5 ">
-                            <a
-                                href="https://qgis.org/funding/donate"
-                                class="footertitle text-nowrap"
-                            >
-                                Funding
-                            </a>
+                            <a href="https://qgis.org/funding/donate" class="footertitle text-nowrap">Funding</a>
                         </li>
                         {{- range site.Menus.qgis_org }}
                             {{- if eq .Name "Funding" }}
                                 {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
-                                        <a
-                                            class="has-text-white text-nowrap"
-                                            href="{{ .URL }}"
-                                        >
-                                            {{ .Name }}
-                                        </a>
+                                        <a class="has-text-white text-nowrap" href="{{ .URL }}">{{ .Name }}</a>
                                     </li>
                                 {{ end }}
                             {{ end }}
@@ -111,88 +71,71 @@
             </div>
             <div class="column is-2-desktop">
                 <a href="https://qgis.org/download">
-                    <button class="button is-primary1 is-size-5">
-                        Download
-                    </button>
+                    <button class="button is-primary1 is-size-5">Download</button>
                 </a>
             </div>
         </div>
+
+        <!-- SECTION ICÔNES SOCIALES MISE À JOUR -->
         <div class="columns is-desktop">
             <div class="copyright column is-2-desktop has-text-white"></div>
             <div class="column social-icons-links">
-                <a
-                    class="has-text-white"
-                    href="https://www.facebook.com/profile.php?id=100057434859831"
-                >
-                    <i class="fa-brands fa-square-facebook"></i>
+                
+                <!-- WhatsApp Channel (NOUVEAU) -->
+                <a class="has-text-white" href="https://whatsapp.com/channel/0029Vb8ewPpLSmbiFWpspy1h" target="_blank" rel="noopener noreferrer" title="Chaîne WhatsApp QGIS Cameroon">
+                    <i class="fa-brands fa-whatsapp fa-lg"></i>
                 </a>
-                <a
-                    class="has-text-white"
-                    href="https://www.youtube.com/@qgishome"
-                >
-                    <i class="fa-brands fa-youtube"></i>
+
+                <!-- LinkedIn (NOUVEAU) -->
+                <a class="has-text-white" href="https://www.linkedin.com/company/qgis-cameroon/" target="_blank" rel="noopener noreferrer" title="LinkedIn QGIS Cameroon">
+                    <i class="fa-brands fa-linkedin fa-lg"></i>
                 </a>
-                <a class="has-text-white" href="https://fosstodon.org/@qgis">
-                    <i class="fa-brands fa-foss"></i>
+
+                <!-- Facebook (EXISTANT) -->
+                <a class="has-text-white" href="https://www.facebook.com/profile.php?id=61595157218301" target="_blank" rel="noopener noreferrer" title="Facebook QGIS Cameroon">
+                    <i class="fa-brands fa-square-facebook fa-lg"></i>
                 </a>
-                <a class="has-text-white" href="https://github.com/qgis/">
-                    <i class="fa-brands fa-square-github"></i>
+
+                <!-- Email Local (MIS À JOUR) -->
+                <a class="has-text-white" href="mailto:qgiscameroun@gmail.com" target="_blank" rel="noopener noreferrer" title="Nous contacter par email">
+                    <i class="fa-solid fa-envelope fa-lg"></i>
                 </a>
-                <a
-                    class="has-text-white"
-                    href="https://qgis.org/community/organisation/mailinglists"
-                >
-                    <i class="fa-solid fa-envelope"></i>
+
+                <!-- YouTube Global (EXISTANT) -->
+                <a class="has-text-white" href="https://www.youtube.com/@qgishome" target="_blank" rel="noopener noreferrer" title="QGIS YouTube">
+                    <i class="fa-brands fa-youtube fa-lg"></i>
                 </a>
+
+                <!-- GitHub Global (EXISTANT) -->
+                <a class="has-text-white" href="https://github.com/qgis/" target="_blank" rel="noopener noreferrer" title="QGIS GitHub">
+                    <i class="fa-brands fa-square-github fa-lg"></i>
+                </a>
+
             </div>
         </div>
+
         <div class="columns is-desktop privacy-links">
-            <a
-                href="https://qgis.org/diversity"
-                class="column is-narrow is-offset-2-desktop"
-                >Diversity statement</a
-            >
-            <a href="https://qgis.org/conduct" class="column is-narrow"
-                >Code of conduct</a
-            >
-            <a
-                href="https://qgis.org/environmental-policy"
-                class="column is-narrow"
-                >Environmental policy</a
-            >
-            <a href="https://qgis.org/license" class="column is-narrow"
-                >License</a
-            >
-            <a href="https://qgis.org/styleguide" class="column is-narrow"
-                >Visual Style Guide</a
-            >
-            <a href="https://qgis.org/goodies" class="column is-narrow"
-                >Goodies</a
-            >
-            <a href="https://qgis.org/archive" class="column is-narrow"
-                >Archive</a
-            >
+            <a href="https://qgis.org/diversity" class="column is-narrow is-offset-2-desktop">Diversity statement</a>
+            <a href="https://qgis.org/conduct" class="column is-narrow">Code of conduct</a>
+            <a href="https://qgis.org/environmental-policy" class="column is-narrow">Environmental policy</a>
+            <a href="https://qgis.org/license" class="column is-narrow">License</a>
+            <a href="https://qgis.org/styleguide" class="column is-narrow">Visual Style Guide</a>
+            <a href="https://qgis.org/goodies" class="column is-narrow">Goodies</a>
+            <a href="https://qgis.org/archive" class="column is-narrow">Archive</a>
         </div>
-        <div
-            class="columns is-desktop issue-report-link is-justify-content-center"
-        >
-            <a
-                href="https://github.com/qgis/QGIS-UG-Cameroon/issues"
-                class="column is-narrow p-0 is-size-6"
-                target="_blank"
-                >Problems with this website? Report an issue here 🐙</a
-            >
+
+        <div class="columns is-desktop issue-report-link is-justify-content-center">
+            <a href="https://github.com/qgis/QGIS-UG-Cameroon/issues" class="column is-narrow p-0 is-size-6" target="_blank" rel="noopener noreferrer">
+                Problems with this website? Report an issue here 🐙
+            </a>
         </div>
     </div>
+
     <div class="commit-link is-size-7">
         {{ $commit := readFile (print .Site.Params.commitFile) }}
         <p>
             Commit revision:
-            <a
-                href="https://github.com/qgis/QGIS-UG-Cameroon/commit/{{ $commit }}"
-                target="_blank"
-                >{{ $commit }}</a
-            >
+            <a href="https://github.com/qgis/QGIS-UG-Cameroon/commit/{{ $commit }}" target="_blank" rel="noopener noreferrer">{{ $commit }}</a>
         </p>
     </div>
 </footer>

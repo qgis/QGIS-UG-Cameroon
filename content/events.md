@@ -17,24 +17,18 @@ Stay informed about our upcoming meetups, workshops, and conferences. Join us to
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS Open Day (QOD)
+### GIS Day Celebration / Célébration de la Journée du GIS
 
-**Date:** September 25, 2026  
-**Time:** To be scheduled  
-**Location:** Live on QGIS YouTube channel  
+**Date:** November 18 / 18 novembre  
+**Location:** Hybrid (Yaoundé / Douala / Online) / Hybride (Yaoundé / Douala / En ligne)  
+**Time:** To be announced / À annoncer  
 
 **Description:**  
-Join us for the QGIS Open Day (QOD), where we will officially introduce the QGIS Cameroon User Group and share more about our community.
+Join us in celebrating GIS Day! This special event is dedicated to showcasing the power of Geographic Information Systems and open-source technologies like QGIS. We will host presentations, networking sessions, and demonstrations highlighting local geospatial projects and innovations in Cameroon.
 
-During this session, we will present:
-- Our mission
-- Our goals
-- Our vision
-- Our activities and future plans for the QGIS community in Cameroon
+*Rejoignez-nous pour célébrer la Journée du GIS ! Cet événement spécial est dédié à la démonstration de la puissance des Systèmes d'Information Géographique et des technologies open-source comme QGIS. Nous organiserons des présentations, des sessions de réseautage et des démonstrations mettant en valeur les projets géospatiaux locaux et les innovations au Cameroun.*
 
-We are excited to share our journey with you and connect with the wider QGIS community. Stay tuned for the confirmed time and livestream link.
-
-{{< button class="is-primary" link="https://youtube.com/@qgis" text="Subscribe to QGIS YouTube" >}} 
+{{< button class="is-primary" link="https://whatsapp.com/channel/0029Vb8ewPpLSmbiFWpspy1h" text="Stay Tuned on WhatsApp / Restez à l'écoute" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
@@ -42,6 +36,7 @@ We are excited to share our journey with you and connect with the wider QGIS com
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
+<br>
 
 {{< columns-start >}}
 {{< column-start >}}
@@ -86,9 +81,29 @@ Please check this page regularly for upcoming workshop schedules and registratio
 {{< column-end >}}
 {{< columns-end >}}
 
+---
+
 ## Past Events
 
-We are currently building our event history. Check back soon for recordings, presentations, and workshop materials from our upcoming sessions.
+Our community has a strong track record of organizing impactful geospatial events. 
+
+{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-content-start themeClass="coloring-2" >}}
+### QGIS Open Day (QOD) 2025
+
+**Date:** September 25, 2025  
+**Location:** Live on QGIS YouTube channel  
+
+**Summary:**  
+We successfully introduced the QGIS Cameroon User Group to the global community. During this session, we presented our mission, goals, vision, and future plans for the QGIS community in Cameroon. It was a great opportunity to connect with the wider QGIS network.
+
+{{< button class="is-primary" link="https://youtube.com/@qgis" text="Watch Replay on YouTube" >}} 
+
+{{< rich-content-end >}}
+{{< rich-right-start >}}
+![](https://usergroup.qgis.org/visualization_center.webp)
+{{< rich-right-end >}}
+{{< rich-box-end >}}
 
 {{< rich-box-start layoutClass="tips" >}}
 {{< rich-content-start themeClass="coloring-1" >}}
