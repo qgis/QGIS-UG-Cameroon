@@ -36,15 +36,11 @@ The Association is guided by an elected Executive Bureau committed to transparen
 - **Vice-President:** [Asonglefac Synthia](https://www.linkedin.com/in/asonglefac-synthia-a5944832a/)
 - **Secretary General:** Ariane Assene
 - **Treasurer General:** Nfor Prilson
-- **Communication Manager:** [Kam Fotso Gislain](https://www.linkedin.com/in/gislain-kam-fotso/)
-- **Projects Manager:** Jastsa Guedia Amael
+- **Communication Manager:** [AFENUI NGUEFACK Nelly](https://www.linkedin.com/in/afenui-nguefack-nelly-leslie-7a750b276/)
+- **Projects Manager:**  CHIOGO MOKO APPOLINAIRE JUNIOR 
 
 ### Our Working Groups (Poles)
 To ensure effective action, our community is organized into specialized poles:
-
-- **Communication, Events & Social Media**  
-  *Mission:* Website management, social media, newsletter, and organization of QGIS Day Cameroon.  
-  *Manager:* **AFENUI NGUEFACK Nelly** – [LinkedIn](https://www.linkedin.com/in/afenui-nguefack-nelly-leslie-7a750b276/)
 
 - **Development, Plugins & GIS Innovation**  
   *Mission:* Technology watch, plugin contribution, and promotion of OGC/open-source standards.  
@@ -52,15 +48,15 @@ To ensure effective action, our community is organized into specialized poles:
 
 - **Training & Capacity Building**  
   *Mission:* QGIS workshops, tutorials, and beginner support.  
-  *Manager:* Training Manager *(To be announced)*
+  *Manager:* **Kam Fotso Gislain** – [LinkedIn](https://www.linkedin.com/in/gislain-kam-fotso/)
 
 - **Partnerships & Resource Mobilization**  
   *Mission:* Relations with institutions (MINDCAF, professional orders, universities, donors) and funding acquisition.  
-  *Manager:* **ADAMOU AHMADOU Arafat** *(LinkedIn coming soon)*
+  *Manager:* **ADAMOU AHMADOU Arafat** 
 
 - **Regional Branches & Associative Life**  
   *Mission:* Coordination of regional branches and community animation.  
-  *Manager:* Branches Coordinator *(To be announced)*
+  *Manager:* **Jastsa Guedia Amael** 
 
 ### Regional Coordination
 To ensure nationwide impact, our community is anchored by dedicated Regional Coordinators in key areas, including Yaoundé (Centre), Douala (Littoral), Bafoussam (West), Buea (South-West), and Garoua (North).

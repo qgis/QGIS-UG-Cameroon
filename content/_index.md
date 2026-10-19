@@ -9,10 +9,10 @@ heroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
 ButtonText: "Join Us!" 
-ButtonLink: "/events/"
+ButtonLink: "https://docs.google.com/forms/d/e/1FAIpQLSeaVkZ3je-eo-xFiKdRoU0u3QOIOYinKM7SqWDrRcr-pXvJUg/viewform?usp=publish-editor"
 ---
 
-{{< content-start >}}
+{{< content-start >}}   
 
 ## Welcome to the QGIS User Group Cameroon
 
